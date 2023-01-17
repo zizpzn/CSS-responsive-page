@@ -1,0 +1,10 @@
+body {
+  background-color: #ff6d00;
+}
+
+h1 {
+  color: white;
+}
+
+@media (max-width: 1280px) {
+}
